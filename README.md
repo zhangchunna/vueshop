@@ -13,7 +13,7 @@ vue全家桶 vue2.0+vuex+axios+better-scroll+vant
 
 ### 在线预览
 项目源码地址：[vueshop](https://github.com/zhangchunna/vueshop)<br>
-项目演示地址：[vue移动端商城](http://47.107.243.68)<br>
+项目演示地址：[vue移动端商城](http://vueshop.chun.sxisa.com)<br>
 建议Chrome调试手机模式下预览<br>
 
 # 技术栈
