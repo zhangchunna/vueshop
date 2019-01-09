@@ -29,7 +29,7 @@ vue全家桶 vue2.0+vuex+axios+better-scroll还有就是miut-ui组件库
 
 > [axios](https://www.npmjs.com/package/axios)：用来请求后端api数据
 
-用axios开发遇到的问题(https://blog.csdn.net/sinat_27339925/article/details/84104358):csdn
+[用axios开发遇到的问题](https://blog.csdn.net/sinat_27339925/article/details/84104358)
 
 ## 效果预览
 
