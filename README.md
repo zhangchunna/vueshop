@@ -1,5 +1,5 @@
 # vue实现商城shop
-vue全家桶 vue2.0+vuex+axios+better-scroll+vant
+vue全家桶 vue2.0+vuex+axios+vue-router+webpack+vant组件库
 
 
 ## 写在前面
