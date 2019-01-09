@@ -1,5 +1,5 @@
 # vue实现商城shop
-vue全家桶 vue2.0+vuex+axios+better-scroll还有就是miut-ui组件库
+vue全家桶 vue2.0+vuex+axios+better-scroll+vant
 
 
 ## 写在前面
