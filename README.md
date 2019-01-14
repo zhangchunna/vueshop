@@ -9,7 +9,7 @@ vue全家桶 vue2.0+vuex+axios+vue-router+webpack+vant组件库
 把小程序弄完之后,决定用vue搭建出来一个商城
 
 ## 后续更新
-目前在学习node.js,打算用node搭建一个后台管理系统,后续更新,敬请期待！！
+#### 目前在学习node.js,打算用node搭建一个后台管理系统,后续更新,敬请期待！！
 
 ### 在线预览
 项目源码地址：[vueshop](https://github.com/zhangchunna/vueshop)<br>
